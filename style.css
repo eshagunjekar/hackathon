@@ -1,0 +1,59 @@
+.container{
+
+    width: 650px;
+    height: 350px;
+    box-shadow: 0 0 6px lightgray;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: lightgray;
+    display: flex;
+    
+
+
+
+}
+.car{
+    margin-left: 100px;
+    padding: 10px;
+}
+
+
+
+.image{
+    border-radius: 20px;
+    height: 270px;
+    width: 180px;
+    padding: 10px;
+    margin: 10px;
+
+    
+
+}
+
+.btn{
+    background-color: #FFB830;
+    color: white;
+    border: 16pxpx;
+    border-color: none ;
+}
+.p-btn{
+    background-color: black;
+    color: white;
+    border: 3px;
+    padding: 10px;
+}
+.heading3{
+    text-decoration:line-through;
+}
+
+
+.a-btn{
+    background-color: white;
+    color: black;
+    
+    border: 3px;
+    padding: 10px;
+    border-color: black;
+}
+    
+
